@@ -11,7 +11,7 @@ I wanted to test the deployment and login process created with Amplify.<br>
 * AWS UI React - to style the form  
 
 ### Deployed
-[Deployed On](https://dev.d169fal4kqmqw9.amplifyapp.com/)
+[Deployed On AWS](https://dev.d169fal4kqmqw9.amplifyapp.com/)
 
 ## Created by 
 Alex Aguirre - from [AWS Tutorial](https://docs.amplify.aws/start/getting-started/nextsteps/q/integration/react/) 
